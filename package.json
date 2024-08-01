@@ -39,8 +39,5 @@
       "last 1 safari version"
     ]
   },
-  "homepage": "https://seungwon23/github.io/movie-website",
-  "devDependencies": {
-    "gh-pages": "^6.1.1"
-  }
+  "homepage": "https://seungwon23/github.io/movie-website/"
 }
