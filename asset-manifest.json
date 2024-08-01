@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/seungwon23/movie-website.git/static/js/main.bcc955aa.js",
-    "index.html": "/seungwon23/movie-website.git/index.html",
-    "main.bcc955aa.js.map": "/seungwon23/movie-website.git/static/js/main.bcc955aa.js.map"
+    "main.js": "/github.com/movie-website/static/js/main.943d446c.js",
+    "index.html": "/github.com/movie-website/index.html",
+    "main.943d446c.js.map": "/github.com/movie-website/static/js/main.943d446c.js.map"
   },
   "entrypoints": [
-    "static/js/main.bcc955aa.js"
+    "static/js/main.943d446c.js"
   ]
 }
